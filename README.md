@@ -1,6 +1,11 @@
 # RestaurantDatabaseProject
 
-There is the documentation in RestaurantDatabaseProject.pdf file.
+There is the documentation in RestaurantDatabaseProject.pdf file in polish.
+
+## Authors
+  * Rafał Kamiński (rafibz007)
+  * Marcin Kozub (Cozoob)
+  * Paulina Jędrychowska (Paulina100)
 
 ## Description
   The project is about a system supporting the activities of a company that provides catering services to customers
